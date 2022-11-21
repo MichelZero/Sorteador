@@ -43,11 +43,11 @@ def dados():
 
 
 # função corteio por um arquivo
-def sorteio_arquivo():
+def sorteio_arquivo(nomeArquivo):
   """
   Purpose: sorteia um nome de um arquivo
   """
-  arquivo = open("nomes.txt", "r")
+  arquivo = open(nomeArquivo, "r")
   nomes = arquivo.readlines()
   arquivo.close()
   return random.choice(nomes)

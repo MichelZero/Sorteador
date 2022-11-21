@@ -24,3 +24,7 @@ print(lista01)
 
 ####################################################
 # importando o modulo de sorteio
+from sorteio import sorteio_arquivo
+
+ganhador = sorteio_arquivo("nomes.txt")
+print(f"O ganhador foi {ganhador}")
