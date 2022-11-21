@@ -21,3 +21,6 @@ def listaNomes(tarefa):
 listaNomes("criar")
 lista01 = listaNomes("ler")
 print(lista01)
+
+####################################################
+# importando o modulo de sorteio
