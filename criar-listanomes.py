@@ -1,6 +1,8 @@
 #
 # autores: 
 # Michel Silva
+
+#data: 21/11/2022
 #
 # criar uma lista de nomes
 # ler uma lista de nomes

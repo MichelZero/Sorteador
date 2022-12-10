@@ -2,6 +2,7 @@
 # autores: 
 # Michel Silva
 #
+#data: 21/11/2022
 
 # sorteia um numero entre 1 e 100
 import random
